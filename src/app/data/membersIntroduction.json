@@ -1,0 +1,101 @@
+{
+  "1": {
+    "aboutMe": {
+      "name": "Admin Kartik",
+      "age": "24",
+      "pronouns": "he/him",
+      "gender": "male",
+      "sexuality": "straight",
+      "country": "India"
+    },
+    "traits": {
+      "likes": ["coding", "gaming", "music", "anime"],
+      "dislikes": ["negativity", "laziness"],
+      "personality": "helpful, curious, friendly"
+    },
+    "favourites": {
+      "colour": "blue",
+      "songArtist": "Imagine Dragons",
+      "food": "biryani",
+      "activity": "learning new tech"
+    },
+    "inPartner": {
+      "age": "20-26",
+      "pronouns": "she/her",
+      "gender": "female",
+      "country": "any",
+      "likes": ["honesty", "kindness"],
+      "dislikes": ["arrogance"],
+      "personality": "supportive, caring"
+    },
+    "moreInfo": {
+      "extra": "I love anime marathons and late-night coding."
+    }
+  },
+  "2": {
+    "aboutMe": {
+      "name": "Admin Joanne",
+      "age": "27",
+      "pronouns": "she/her",
+      "gender": "female",
+      "sexuality": "bisexual",
+      "country": "USA"
+    },
+    "traits": {
+      "likes": ["reading", "traveling", "coffee"],
+      "dislikes": ["rudeness", "dishonesty"],
+      "personality": "thoughtful, adventurous, empathetic"
+    },
+    "favourites": {
+      "colour": "lavender",
+      "songArtist": "Taylor Swift",
+      "food": "pasta",
+      "activity": "journaling while traveling"
+    },
+    "inPartner": {
+      "age": "25-32",
+      "pronouns": "he/him or she/her",
+      "gender": "any",
+      "country": "open",
+      "likes": ["humor", "deep talks"],
+      "dislikes": ["close-mindedness"],
+      "personality": "open-minded, caring"
+    },
+    "moreInfo": {
+      "extra": "I love coffee shops and long road trips."
+    }
+  },
+  "3": {
+    "aboutMe": {
+      "name": "Admin Kartik",
+      "age": "24",
+      "pronouns": "he/him",
+      "gender": "non-binary",
+      "sexuality": "straight",
+      "country": "malasiya"
+    },
+    "traits": {
+      "likes": ["coding", "gaming", "music", "anime"],
+      "dislikes": ["negativity", "laziness"],
+      "personality": "helpful, curious, friendly"
+    },
+    "favourites": {
+      "colour": "blue",
+      "songArtist": "Imagine Dragons",
+      "food": "biryani",
+      "activity": "learning new tech"
+    },
+    "inPartner": {
+      "age": "20-26",
+      "pronouns": "she/her",
+      "gender": "female",
+      "country": "any",
+      "likes": ["honesty", "kindness"],
+      "dislikes": ["arrogance"],
+      "personality": "supportive, caring"
+    },
+    "moreInfo": {
+      "extra": "I love anime marathons and late-night coding."
+    }
+  }
+}
