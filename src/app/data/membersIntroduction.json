@@ -4,7 +4,7 @@
       "name": "Shruti",
       "age": "23",
       "pronouns": "she / her",
-      "gender": "Female",
+      "gender": "FeMale",
       "sexuality": "Asexual",
       "country": "India"
     },
@@ -70,7 +70,7 @@
     "name": "Aman",
     "age": "21",
     "pronouns": "he/him?",
-    "gender": "male",
+    "gender": "Male",
     "sexuality": "Asexual",
     "country": "India"
   },
@@ -170,7 +170,7 @@
     "name": "Emilia",
     "age": "13 almost 14",
     "pronouns": "she/her",
-    "gender": "Female",
+    "gender": "FeMale",
     "sexuality": "on the Aroace spectrum but not completely Aro",
     "country": "Germany"
   },
@@ -195,7 +195,7 @@
     "name": "Marilaine",
     "age": "18yo",
     "pronouns": "she/her",
-    "gender": "Female",
+    "gender": "FeMale",
     "sexuality": "aroace",
     "country": "Brazil"
   },
@@ -228,7 +228,7 @@
     "name": "Paga",
     "age": "23",
     "pronouns": "he/him",
-    "gender": "male",
+    "gender": "Male",
     "sexuality": "-",
     "country": "Indonesia"
   },
@@ -279,7 +279,7 @@
   "inPartner": {
     "age": "18-53",
     "pronouns": "She/her",
-    "gender": "Female",
+    "gender": "FeMale",
     "timezone": "EST",
     "likes": "",
     "dislikes": "",
@@ -294,7 +294,7 @@
     "name": "Prakash Sahoo",
     "age": "24",
     "pronouns": "he/him",
-    "gender": "male",
+    "gender": "Male",
     "sexuality": "asexual",
     "country": "India"
   },
@@ -312,7 +312,7 @@
   "inPartner": {
     "age": "20-27",
     "pronouns": "she/hers",
-    "gender": "female",
+    "gender": "FeMale",
     "country": "anywhere",
     "likes": "",
     "dislikes": "",
@@ -329,7 +329,7 @@
     "name": "Roxana",
     "age": "34",
     "pronouns": "she/her",
-    "gender": "Female",
+    "gender": "FeMale",
     "sexuality": "Demisexual/Sapiosexual/pansexual",
     "country": "Romania"
   },
@@ -364,8 +364,8 @@
     "name": "Sarah",
     "age": "16",
     "pronouns": "she/her",
-    "gender": "female",
-    "sexuality": "female",
+    "gender": "FeMale",
+    "sexuality": "FeMale",
     "country": "Germany"
   },
   "traits": {
@@ -399,9 +399,9 @@
     "name": "Seema",
     "age": "20",
     "pronouns": "she/her",
-    "gender": "female",
+    "gender": "FeMale",
     "sexuality": "asexual",
-    "timezone": "IST"
+    "country": "India"
   },
   "traits": {
     "likes": "writing, music, watching movies, hanging out with friends, exploring new things",
@@ -434,7 +434,7 @@
     "name": "Anggi Heradiana",
     "age": "25",
     "pronouns": "she/her",
-    "gender": "female",
+    "gender": "FeMale",
     "sexuality": "asexual",
     "country": "Indonesia"
   },
