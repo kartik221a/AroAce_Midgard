@@ -133,39 +133,6 @@
 },
 "5": {
   "aboutMe": {
-    "name": "Joanne",
-    "age": "33",
-    "pronouns": "she/her",
-    "gender": "Female",
-    "sexuality": "Autosexual and biromantic",
-    "country": "Malaysia"
-  },
-  "traits": {
-    "likes": "listening to music, dance freely, swimming, reading, writing, deep conversation, anime",
-    "dislikes": "too extreme exercise",
-    "personality": "caring, straightforward about things, loyal, can be humour and funny sometimes, introvert and when it comes to comfortable with will show up crazy side"
-  },
-  "favourites": {
-    "colour": "violet",
-    "songArtist": "any songs, mostly pop",
-    "food": "sushi, Asian food, western food, dislike organ and coriander",
-    "activity": "listening to music, reading, swimming"
-  },
-  "inPartner": {
-    "age": "30-44",
-    "pronouns": "-",
-    "gender": "male or female",
-    "country": "any, could be long distance",
-    "likes": "any as long as honest and sincere",
-    "dislikes": "no communication at all",
-    "personality": "any for real and patience to communicate"
-  },
-  "moreInfo": {
-    "extra": "religion: Free thinker | something more about you: I can be nice and mean at the same time, depends on the situation. Open to any friends, just abit picky for looking for partner"
-  }
-},
-"6": {
-  "aboutMe": {
     "name": "Siddhant",
     "age": "27",
     "pronouns": "He/Him",
@@ -198,7 +165,7 @@
     "extra": "religion: open to all | something more about you: Hey there, I'm Siddhant, a quiet observer with a love for the finer things in life. As an introvert, I find solace in the company of my feline friends and the melodies of soulful music. Though conversation may initially daunt me, once a topic arises, I eagerly engage, seeking connection and understanding. I hold steadfast to the belief in monogamy, searching for that special someone to journey through life's mysteries with. When I'm not lost in contemplation or meditation, you'll find me immersing myself in captivating shows, from anime to thrilling web series, or delving into the depths of mysterious tales. Let's share stories, explore new horizons, and perhaps find harmony in our shared journey. 🎶🐱 Introvert + Monogamous + Mystery Enthusiast + Music Lover. I love cute cats."
   }
 },
-"7": {
+"6": {
   "aboutMe": {
     "name": "Emilia",
     "age": "13 almost 14",
@@ -223,7 +190,7 @@
     "extra": "religion: Christian | something more about you: idk 🥲 I like FNAF"
   }
 },
-"8": {
+"7": {
   "aboutMe": {
     "name": "Marilaine",
     "age": "18yo",
@@ -256,7 +223,7 @@
     "extra": "religion: Christian | something more about you: well, I really wanna find some aroace friends so I won’t feel so alone :,)"
   }
 },
-"9": {
+"8": {
   "aboutMe": {
     "name": "Paga",
     "age": "23",
@@ -289,7 +256,7 @@
     "extra": "religion: ☪ | something more about you: average people"
   }
 },
-"10": {
+"9": {
   "aboutMe": {
     "name": "Peter",
     "age": "53",
@@ -322,7 +289,7 @@
     "extra": ""
   }
 },
-"11": {
+"10": {
   "aboutMe": {
     "name": "Prakash Sahoo",
     "age": "24",
@@ -357,7 +324,7 @@
     "somethingMore": "I am not sure what to write now hopefully we will get to know each other as we talk ...I am not very well known of the social norms so if while chatting if I say something that doesn't make sense then feel free to correct me"
   }
 },
-"12": {
+"11": {
   "aboutMe": {
     "name": "Roxana",
     "age": "34",
@@ -392,7 +359,7 @@
     "somethingMore": ""
   }
 },
-"13": {
+"12": {
   "aboutMe": {
     "name": "Sarah",
     "age": "16",
@@ -427,7 +394,7 @@
     "somethingMore": ""
   }
 },
-"14": {
+"13": {
   "aboutMe": {
     "name": "Seema",
     "age": "20",
@@ -462,7 +429,7 @@
     "somethingMore": ""
   }
 },
-"15": {
+"14": {
   "aboutMe": {
     "name": "Anggi Heradiana",
     "age": "25",
