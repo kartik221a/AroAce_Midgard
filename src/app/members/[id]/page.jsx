@@ -10,12 +10,13 @@ export default function MemberDetailPage({ params }) {
 
   const { aboutMe, traits, favourites, inPartner, moreInfo } = member;
 
-  const likesText = traits?.likes?.length ? traits.likes.join(", ") : "No likes listed";
-  const dislikesText = traits?.dislikes?.length ? traits.dislikes.join(", ") : "No dislikes listed";
+  // Since likes/dislikes are now strings, no join needed
+  const likesText = traits?.likes || "No likes listed";
+  const dislikesText = traits?.dislikes || "No dislikes listed";
   const personalityText = traits?.personality || "No personality info";
 
-  const partnerLikesText = inPartner?.likes?.length ? inPartner.likes.join(", ") : "N/A";
-  const partnerDislikesText = inPartner?.dislikes?.length ? inPartner.dislikes.join(", ") : "N/A";
+  const partnerLikesText = inPartner?.likes || "N/A";
+  const partnerDislikesText = inPartner?.dislikes || "N/A";
   const partnerPersonalityText = inPartner?.personality || "N/A";
 
   const extraInfo = moreInfo?.extra || "No additional info";
@@ -30,7 +31,6 @@ export default function MemberDetailPage({ params }) {
               {aboutMe?.name || "Unknown"}
             </h1>
             <div className="w-[40rem] h-40 relative">
-              {/* Gradients */}
               <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-indigo-500 to-transparent h-[2px] w-3/4 blur-sm" />
               <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-indigo-500 to-transparent h-px w-3/4" />
               <div className="absolute inset-x-60 top-0 bg-gradient-to-r from-transparent via-sky-500 to-transparent h-[5px] w-1/4 blur-sm" />

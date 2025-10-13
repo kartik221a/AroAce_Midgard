@@ -41,8 +41,10 @@ export default function AdminPage() {
 
   return (
     <BackgroundGradientAnimation>
-      <div className="p-8">
-        <h1 className="text-2xl font-bold mb-4">Admin Introductions</h1>
+      <div
+        className="flex flex-col min-h-screen p-8"
+      >
+        <h1 className="text-2xl font-bold mb-4 text-white">Admin Introductions</h1>
 
         <SearchFilter
           onSearchChange={setSearch}

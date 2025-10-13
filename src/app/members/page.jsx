@@ -1,7 +1,8 @@
 // src/pages/members.jsx
 "use client";
-import { useState } from "react";
-import IntroCard from  "../components/IntroCard";
+
+import { useState, useEffect } from "react";
+import IntroCard from "../components/IntroCard";
 import SearchFilter from "../components/SearchFilter";
 import memberData from "@/app/data/membersIntroduction.json";
 import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
@@ -10,8 +11,17 @@ export default function MembersPage() {
   const [search, setSearch] = useState("");
   const [country, setCountry] = useState("");
   const [gender, setGender] = useState("");
+  const [windowHeight, setWindowHeight] = useState(0);
 
-  // Get unique countries and genders from JSON dynamically
+  // Track window height for better scroll handling
+  useEffect(() => {
+    const updateHeight = () => setWindowHeight(window.innerHeight);
+    updateHeight();
+    window.addEventListener("resize", updateHeight);
+    return () => window.removeEventListener("resize", updateHeight);
+  }, []);
+
+  // Get unique countries and genders dynamically
   const countries = Array.from(
     new Set(
       Object.values(memberData)
@@ -35,14 +45,15 @@ export default function MembersPage() {
       .includes(search.toLowerCase());
     const matchesCountry = country ? intro.aboutMe?.country === country : true;
     const matchesGender = gender ? intro.aboutMe?.gender === gender : true;
-
     return matchesSearch && matchesCountry && matchesGender;
   });
 
   return (
     <BackgroundGradientAnimation>
-      <div className="p-8">
-        <h1 className="text-2xl font-bold mb-4">Member Introductions</h1>
+      <div
+        className="flex flex-col min-h-screen p-8"
+      >
+        <h1 className="text-2xl font-bold mb-4 text-white">Member Introductions</h1>
 
         <SearchFilter
           onSearchChange={setSearch}

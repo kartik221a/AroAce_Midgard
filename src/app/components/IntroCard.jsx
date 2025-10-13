@@ -5,9 +5,7 @@ import { Meteors } from "@/components/ui/meteors";
 export default function IntroCard({ id, data, type }) {
   // Safely get likes as a string
   const likesText =
-    data.traits && Array.isArray(data.traits.likes) && data.traits.likes.length
-      ? data.traits.likes.join(", ")
-      : "No likes listed";
+    data.traits ? data.traits.likes : "No likes listed";
 
   // Safely get gender
   const genderText = data.aboutMe.gender || "Unknown";

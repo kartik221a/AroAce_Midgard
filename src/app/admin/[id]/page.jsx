@@ -10,12 +10,13 @@ export default function AdminDetailPage({ params }) {
 
   const { aboutMe, traits, favourites, inPartner, moreInfo } = admin;
 
-  const likesText = traits?.likes?.length ? traits.likes.join(", ") : "No likes listed";
-  const dislikesText = traits?.dislikes?.length ? traits.dislikes.join(", ") : "No dislikes listed";
+  // Since likes/dislikes are now strings, no join needed
+  const likesText = traits?.likes || "No likes listed";
+  const dislikesText = traits?.dislikes || "No dislikes listed";
   const personalityText = traits?.personality || "No personality info";
 
-  const partnerLikesText = inPartner?.likes?.length ? inPartner.likes.join(", ") : "N/A";
-  const partnerDislikesText = inPartner?.dislikes?.length ? inPartner.dislikes.join(", ") : "N/A";
+  const partnerLikesText = inPartner?.likes || "N/A";
+  const partnerDislikesText = inPartner?.dislikes || "N/A";
   const partnerPersonalityText = inPartner?.personality || "N/A";
 
   const extraInfo = moreInfo?.extra || "No additional info";
