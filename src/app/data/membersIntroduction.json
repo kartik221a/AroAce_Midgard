@@ -1,101 +1,465 @@
 {
   "1": {
     "aboutMe": {
-      "name": "Admin Kartik",
-      "age": "24",
-      "pronouns": "he/him",
-      "gender": "male",
-      "sexuality": "straight",
+      "name": "Shruti",
+      "age": "23",
+      "pronouns": "she / her",
+      "gender": "Female",
+      "sexuality": "Asexual",
       "country": "India"
     },
     "traits": {
-      "likes": ["coding", "gaming", "music", "anime"],
-      "dislikes": ["negativity", "laziness"],
-      "personality": "helpful, curious, friendly"
+      "likes": "gardening ☘ , playing badminton 🏸",
+      "dislikes": "-",
+      "personality": "-"
     },
     "favourites": {
-      "colour": "blue",
-      "songArtist": "Imagine Dragons",
-      "food": "biryani",
-      "activity": "learning new tech"
+      "colour": "Blue",
+      "songArtist": "Ava Max , zyan malik , BLACKPINK, BTS , AR Rehman, Arijit Singh, 5 SOS , etc....",
+      "food": "Vegetarian food",
+      "activity": "-"
     },
     "inPartner": {
-      "age": "20-26",
-      "pronouns": "she/her",
-      "gender": "female",
-      "country": "any",
-      "likes": ["honesty", "kindness"],
-      "dislikes": ["arrogance"],
-      "personality": "supportive, caring"
+      "age": "-",
+      "pronouns": "-",
+      "gender": "-",
+      "country": "-",
+      "likes": "-",
+      "dislikes": "-",
+      "personality": "-"
     },
     "moreInfo": {
-      "extra": "I love anime marathons and late-night coding."
+      "extra": "relegion: Hindu | something more about you: i mainly study through out the day , im looking for a decent job"
     }
   },
   "2": {
-    "aboutMe": {
-      "name": "Admin Joanne",
-      "age": "27",
-      "pronouns": "she/her",
-      "gender": "female",
-      "sexuality": "bisexual",
-      "country": "USA"
-    },
-    "traits": {
-      "likes": ["reading", "traveling", "coffee"],
-      "dislikes": ["rudeness", "dishonesty"],
-      "personality": "thoughtful, adventurous, empathetic"
-    },
-    "favourites": {
-      "colour": "lavender",
-      "songArtist": "Taylor Swift",
-      "food": "pasta",
-      "activity": "journaling while traveling"
-    },
-    "inPartner": {
-      "age": "25-32",
-      "pronouns": "he/him or she/her",
-      "gender": "any",
-      "country": "open",
-      "likes": ["humor", "deep talks"],
-      "dislikes": ["close-mindedness"],
-      "personality": "open-minded, caring"
-    },
-    "moreInfo": {
-      "extra": "I love coffee shops and long road trips."
-    }
+  "aboutMe": {
+    "name": "Jyorca/iyor",
+    "age": "14",
+    "pronouns": "They/them",
+    "gender": "Non-Binary",
+    "sexuality": "Bisexual/Asexual/aroace",
+    "country": "Indonesia"
   },
-  "3": {
-    "aboutMe": {
-      "name": "Admin Kartik",
-      "age": "24",
-      "pronouns": "he/him",
-      "gender": "non-binary",
-      "sexuality": "straight",
-      "country": "malasiya"
-    },
-    "traits": {
-      "likes": ["coding", "gaming", "music", "anime"],
-      "dislikes": ["negativity", "laziness"],
-      "personality": "helpful, curious, friendly"
-    },
-    "favourites": {
-      "colour": "blue",
-      "songArtist": "Imagine Dragons",
-      "food": "biryani",
-      "activity": "learning new tech"
-    },
-    "inPartner": {
-      "age": "20-26",
-      "pronouns": "she/her",
-      "gender": "female",
-      "country": "any",
-      "likes": ["honesty", "kindness"],
-      "dislikes": ["arrogance"],
-      "personality": "supportive, caring"
-    },
-    "moreInfo": {
-      "extra": "I love anime marathons and late-night coding."
-    }
+  "traits": {
+    "likes": "Sleeping, reading, listening to music, writing, doing nothing, Making scenarios in my head",
+    "dislikes": "Math, extremely rude people, Math, math, math",
+    "personality": "Idk honestly"
+  },
+  "favourites": {
+    "colour": "Black/white",
+    "songArtist": "Halle Uchida, Vocaloid songs, Cavetown, Mr.Kitty",
+    "food": "Indomie (noodles), egg, Fried rice, Ice cream and Grapes (especially green grapes!)",
+    "activity": "sleeping"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "-",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "~extra~ : I have an extreme Social Anxiety which causes me to get nervous even talking with someone online, im sorry if im barely chatting in the group but i'll try to be more talkative. religion: Agnostic? (Not sure if it's a religion) | something more about you: I like playing visual novel games and voiceover them lol. Nice to meet you all"
   }
+},
+"3": {
+  "aboutMe": {
+    "name": "Aman",
+    "age": "21",
+    "pronouns": "he/him?",
+    "gender": "male",
+    "sexuality": "Asexual",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "drawing, chess, games, looking at sky or stars, writing poems, history, reading etc.",
+    "dislikes": "dishonet people, bullies etc.",
+    "personality": "shy and kind of loner"
+  },
+  "favourites": {
+    "colour": "Red",
+    "songArtist": "not any specific",
+    "food": "not any specific",
+    "activity": "games and reading"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "not any",
+    "country": "-",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: hinduism | something more about me: I don't think so."
+  }
+},
+"4": {
+  "aboutMe": {
+    "name": "Ejo",
+    "age": "25",
+    "pronouns": "Ejo/Eka",
+    "gender": "Agender",
+    "sexuality": "Aroace-spec",
+    "country": "Indonesia"
+  },
+  "traits": {
+    "likes": "cycling, deep conversation, greet with stranger, writting poem",
+    "dislikes": "dishonesty, to much fakery",
+    "personality": "funky, caring, lover to meet knew people, honest, not much sugarcotain about my thinking"
+  },
+  "favourites": {
+    "colour": "green/purple",
+    "songArtist": "any songs whom i like mostly random, but if it define Nierish like song will be it",
+    "food": "Mostly asian food",
+    "activity": "listening to music, reading, writting poem, cycling"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "-",
+    "likes": "any as long as honest and sincere",
+    "dislikes": "vague language and evading if it asking what is talk about",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: -- Keep it private | i am early diagnosed autist, diagnosed at 2 y.o and maybe ADHD to"
+  }
+},
+"5": {
+  "aboutMe": {
+    "name": "Joanne",
+    "age": "33",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Autosexual and biromantic",
+    "country": "Malaysia"
+  },
+  "traits": {
+    "likes": "listening to music, dance freely, swimming, reading, writing, deep conversation, anime",
+    "dislikes": "too extreme exercise",
+    "personality": "caring, straightforward about things, loyal, can be humour and funny sometimes, introvert and when it comes to comfortable with will show up crazy side"
+  },
+  "favourites": {
+    "colour": "violet",
+    "songArtist": "any songs, mostly pop",
+    "food": "sushi, Asian food, western food, dislike organ and coriander",
+    "activity": "listening to music, reading, swimming"
+  },
+  "inPartner": {
+    "age": "30-44",
+    "pronouns": "-",
+    "gender": "male or female",
+    "country": "any, could be long distance",
+    "likes": "any as long as honest and sincere",
+    "dislikes": "no communication at all",
+    "personality": "any for real and patience to communicate"
+  },
+  "moreInfo": {
+    "extra": "religion: Free thinker | something more about you: I can be nice and mean at the same time, depends on the situation. Open to any friends, just abit picky for looking for partner"
+  }
+},
+"6": {
+  "aboutMe": {
+    "name": "Siddhant",
+    "age": "27",
+    "pronouns": "He/Him",
+    "gender": "Male",
+    "sexuality": "Hetero + Aegosexuality",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "Cats, Owls, Hamsters, small size dogs, Music, Animes, Conspiracy theories, deep conversation",
+    "dislikes": "hypersexual allos",
+    "personality": "Caring, Introvert"
+  },
+  "favourites": {
+    "colour": "purple",
+    "songArtist": "All songs despite of the language",
+    "food": "Street foods around the world",
+    "activity": "studying"
+  },
+  "inPartner": {
+    "note": "I haven't decided anything about my partner",
+    "age": "any because of 'just friends'",
+    "pronouns": "all",
+    "gender": "all",
+    "country": "all",
+    "likes": "good people",
+    "dislikes": "people who don't respect good person",
+    "personality": "caring and loving"
+  },
+  "moreInfo": {
+    "extra": "religion: open to all | something more about you: Hey there, I'm Siddhant, a quiet observer with a love for the finer things in life. As an introvert, I find solace in the company of my feline friends and the melodies of soulful music. Though conversation may initially daunt me, once a topic arises, I eagerly engage, seeking connection and understanding. I hold steadfast to the belief in monogamy, searching for that special someone to journey through life's mysteries with. When I'm not lost in contemplation or meditation, you'll find me immersing myself in captivating shows, from anime to thrilling web series, or delving into the depths of mysterious tales. Let's share stories, explore new horizons, and perhaps find harmony in our shared journey. 🎶🐱 Introvert + Monogamous + Mystery Enthusiast + Music Lover. I love cute cats."
+  }
+},
+"7": {
+  "aboutMe": {
+    "name": "Emilia",
+    "age": "13 almost 14",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "on the Aroace spectrum but not completely Aro",
+    "country": "Germany"
+  },
+  "traits": {
+    "likes": "A lot haha",
+    "dislikes": "rude people",
+    "personality": "idk how to describe :,)"
+  },
+  "favourites": {
+    "colour": "Red and green",
+    "songArtist": "Artist: David Kushner | Song: Softcore",
+    "food": "Fries",
+    "activity": "Drawing, calling, playing Roblox"
+  },
+  "inPartner": {},
+  "moreInfo": {
+    "extra": "religion: Christian | something more about you: idk 🥲 I like FNAF"
+  }
+},
+"8": {
+  "aboutMe": {
+    "name": "Marilaine",
+    "age": "18yo",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "aroace",
+    "country": "Brazil"
+  },
+  "traits": {
+    "likes": "purple, cats and frogs, meeting new people",
+    "dislikes": "",
+    "personality": "I’m talkative, gentle, friendly"
+  },
+  "favourites": {
+    "colour": "purple and silver",
+    "songArtist": "Faouzia",
+    "food": "I don't have one favorite",
+    "activity": "singing (not really good at this though)"
+  },
+  "inPartner": {
+    "age": "16-20",
+    "pronouns": "any pronouns",
+    "gender": "any gender",
+    "country": "any country",
+    "likes": "animals",
+    "dislikes": "",
+    "personality": "just be gentle lol"
+  },
+  "moreInfo": {
+    "extra": "religion: Christian | something more about you: well, I really wanna find some aroace friends so I won’t feel so alone :,)"
+  }
+},
+"9": {
+  "aboutMe": {
+    "name": "Paga",
+    "age": "23",
+    "pronouns": "he/him",
+    "gender": "male",
+    "sexuality": "-",
+    "country": "Indonesia"
+  },
+  "traits": {
+    "likes": "Calisthenics, 🐱, 🎮, and play joyful stuff",
+    "dislikes": "sex, emping",
+    "personality": "idk, calm 🤷‍♂"
+  },
+  "favourites": {
+    "colour": "White",
+    "songArtist": "Kokia, L'Arc EN Ciel",
+    "food": "food with high protein",
+    "activity": "work, play, and sleep"
+  },
+  "inPartner": {
+    "age": "",
+    "pronouns": "",
+    "gender": "",
+    "country": "",
+    "likes": "",
+    "dislikes": "",
+    "personality": ""
+  },
+  "moreInfo": {
+    "extra": "religion: ☪ | something more about you: average people"
+  }
+},
+"10": {
+  "aboutMe": {
+    "name": "Peter",
+    "age": "53",
+    "pronouns": "He/him",
+    "gender": "Male",
+    "sexuality": "Hetero, asexual, polyamorous",
+    "timezone": "EST"
+  },
+  "traits": {
+    "likes": "Friendly and kind talk, doing activities together, cuddling",
+    "dislikes": "Kissing, teasing, unpredictability, smoking, wearing fur, using racial slurs (the last 3 are dealbreakers)",
+    "personality": "Calm, sensitive, quiet, shy, friendly, fun loving, silly at times"
+  },
+  "favourites": {
+    "colour": "Pink",
+    "songArtist": "The Jackson 5 and Michael Jackson solo, David Bowie, The Supremes, The Police, The Temptations, Culture Club, and the Miracles",
+    "food": "Kung Pao wheat gluten",
+    "activity": "Reading, music, internet surfing, Karaoke, board games, museums, improv, walks in the park"
+  },
+  "inPartner": {
+    "age": "18-53",
+    "pronouns": "She/her",
+    "gender": "Female",
+    "timezone": "EST",
+    "likes": "",
+    "dislikes": "",
+    "personality": "Similar to mine, patient, reliable, clear, willing to teach and learn"
+  },
+  "moreInfo": {
+    "extra": ""
+  }
+},
+"11": {
+  "aboutMe": {
+    "name": "Prakash Sahoo",
+    "age": "24",
+    "pronouns": "he/him",
+    "gender": "male",
+    "sexuality": "asexual",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "coding, anime, listening music",
+    "dislikes": "being in crowdy places without being with someone i know",
+    "personality": "have no Idea how to label name my personality but I am a bit on autistic side and am introverted..i prefer texting over speaking"
+  },
+  "favourites": {
+    "colour": "red",
+    "songArtist": "plenty of songs can't choose any but I like progressive sounds of edm of artists such as Martin Garrix, Third Party, Matisse & Sadko, Dubvision",
+    "food": "Dahibada (Indian food)",
+    "activity": "I am doing masters so most of the time I spend coding and stuffs and in free time I play games, reads manhwas, watch animes"
+  },
+  "inPartner": {
+    "age": "20-27",
+    "pronouns": "she/hers",
+    "gender": "female",
+    "country": "anywhere",
+    "likes": "",
+    "dislikes": "",
+    "personality": ""
+  },
+  "moreInfo": {
+    "extra": "",
+    "religion": "any",
+    "somethingMore": "I am not sure what to write now hopefully we will get to know each other as we talk ...I am not very well known of the social norms so if while chatting if I say something that doesn't make sense then feel free to correct me"
+  }
+},
+"12": {
+  "aboutMe": {
+    "name": "Roxana",
+    "age": "34",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Demisexual/Sapiosexual/pansexual",
+    "country": "Romania"
+  },
+  "traits": {
+    "likes": "I like to write poems/ to read poems, deep conversations, documentaries, old movies",
+    "dislikes": "dishonesty, liars",
+    "personality": "introverted, melancholic, ISFJ"
+  },
+  "favourites": {
+    "colour": "gray, pink",
+    "songArtist": "Fancy - Flames of Love",
+    "food": "Romanian food but I like to try also other types of food",
+    "activity": "hiking, walking, traveling around"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "anywhere",
+    "likes": "sincerity and respect",
+    "dislikes": "short conversations/ghosting",
+    "personality": "I have no preferences"
+  },
+  "moreInfo": {
+    "extra": "",
+    "religion": "-- ask me",
+    "somethingMore": ""
+  }
+},
+"13": {
+  "aboutMe": {
+    "name": "Sarah",
+    "age": "16",
+    "pronouns": "she/her",
+    "gender": "female",
+    "sexuality": "female",
+    "country": "Germany"
+  },
+  "traits": {
+    "likes": "foodie, music, stray kids, anime",
+    "dislikes": "lying, racism",
+    "personality": "infp, bubbly, introvert"
+  },
+  "favourites": {
+    "colour": "winered",
+    "songArtist": "Stray Kids",
+    "food": "peanut butter",
+    "activity": "diving, muay thai, the drums"
+  },
+  "inPartner": {
+    "age": "15-18",
+    "pronouns": "idc",
+    "gender": "idc",
+    "country": "idc",
+    "likes": "similar to mine",
+    "dislikes": "similar to mine",
+    "personality": "idc"
+  },
+  "moreInfo": {
+    "extra": "",
+    "religion": "none",
+    "somethingMore": ""
+  }
+},
+"14": {
+  "aboutMe": {
+    "name": "Seema",
+    "age": "20",
+    "pronouns": "she/her",
+    "gender": "female",
+    "sexuality": "asexual",
+    "timezone": "IST"
+  },
+  "traits": {
+    "likes": "writing, music, watching movies, hanging out with friends, exploring new things",
+    "dislikes": "unspecified",
+    "personality": "ambivert, talkative when comfortable"
+  },
+  "favourites": {
+    "colour": "black, white",
+    "songArtist": "",
+    "food": "",
+    "activity": ""
+  },
+  "inPartner": {
+    "age": "",
+    "pronouns": "",
+    "gender": "",
+    "country": "",
+    "likes": "",
+    "dislikes": "",
+    "personality": ""
+  },
+  "moreInfo": {
+    "extra": "",
+    "religion": "",
+    "somethingMore": ""
+  }
+}
 }

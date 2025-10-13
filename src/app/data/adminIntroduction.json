@@ -1,101 +1,169 @@
 {
-  "1": {
-    "aboutMe": {
-      "name": "Admin Kartik",
-      "age": "24",
-      "pronouns": "he/him",
-      "gender": "male",
-      "sexuality": "straight",
-      "country": "India"
-    },
-    "traits": {
-      "likes": ["coding", "gaming", "music", "anime"],
-      "dislikes": ["negativity", "laziness"],
-      "personality": "helpful, curious, friendly"
-    },
-    "favourites": {
-      "colour": "blue",
-      "songArtist": "Imagine Dragons",
-      "food": "biryani",
-      "activity": "learning new tech"
-    },
-    "inPartner": {
-      "age": "20-26",
-      "pronouns": "she/her",
-      "gender": "female",
-      "country": "any",
-      "likes": ["honesty", "kindness"],
-      "dislikes": ["arrogance"],
-      "personality": "supportive, caring"
-    },
-    "moreInfo": {
-      "extra": "I love anime marathons and late-night coding."
-    }
+"1": {
+  "aboutMe": {
+    "name": "Kartik",
+    "age": "21",
+    "pronouns": "he/him",
+    "gender": "male",
+    "sexuality": "straight",
+    "country": "India"
   },
-  "2": {
-    "aboutMe": {
-      "name": "Admin Joanne",
-      "age": "27",
-      "pronouns": "she/her",
-      "gender": "female",
-      "sexuality": "bisexual",
-      "country": "USA"
-    },
-    "traits": {
-      "likes": ["reading", "traveling", "coffee"],
-      "dislikes": ["rudeness", "dishonesty"],
-      "personality": "thoughtful, adventurous, empathetic"
-    },
-    "favourites": {
-      "colour": "lavender",
-      "songArtist": "Taylor Swift",
-      "food": "pasta",
-      "activity": "journaling while traveling"
-    },
-    "inPartner": {
-      "age": "25-32",
-      "pronouns": "he/him or she/her",
-      "gender": "any",
-      "country": "open",
-      "likes": ["humor", "deep talks"],
-      "dislikes": ["close-mindedness"],
-      "personality": "open-minded, caring"
-    },
-    "moreInfo": {
-      "extra": "I love coffee shops and long road trips."
-    }
+  "traits": {
+    "likes": "games, anime, programming, music, deep conversations, travelling (future goal)",
+    "dislikes": "i like everything about everyone because everybody has their own perspective about life, so i try to understand them until they are not harming someone",
+    "personality": "caring, a little naughty, kinda straightforward about things, loyal, and very introverted"
   },
-  "3": {
-    "aboutMe": {
-      "name": "Admin Kartik",
-      "age": "24",
-      "pronouns": "he/him",
-      "gender": "non-binary",
-      "sexuality": "straight",
-      "country": "malasiya"
-    },
-    "traits": {
-      "likes": ["coding", "gaming", "music", "anime"],
-      "dislikes": ["negativity", "laziness"],
-      "personality": "helpful, curious, friendly"
-    },
-    "favourites": {
-      "colour": "blue",
-      "songArtist": "Imagine Dragons",
-      "food": "biryani",
-      "activity": "learning new tech"
-    },
-    "inPartner": {
-      "age": "20-26",
-      "pronouns": "she/her",
-      "gender": "female",
-      "country": "any",
-      "likes": ["honesty", "kindness"],
-      "dislikes": ["arrogance"],
-      "personality": "supportive, caring"
-    },
-    "moreInfo": {
-      "extra": "I love anime marathons and late-night coding."
-    }
+  "favourites": {
+    "colour": "black, grey, white, purple",
+    "songArtist": "OVG, YUNGLEX, FUJI KAZE",
+    "food": "butter chicken",
+    "activity": "playing games, watching anime, being introverted in real life"
+  },
+  "inPartner": {
+    "age": "18-25",
+    "pronouns": "she/her",
+    "gender": "female",
+    "timezone": "any",
+    "likes": "any (i love to try new things in life)",
+    "dislikes": "any (if the dislikes will be about my personality then i'm open to change if we click for sure)",
+    "personality": "any, just be loyal and a bit yapper"
+  },
+  "moreInfo": {
+    "extra": "Hey, I’m a straight guy who really values emotional connection — I’m more into cuddles, kisses, and quiet closeness than anything purely physical. I’m open to intimacy and exploring things together, but what truly matters to me is trust, comfort, and genuine love. I’m also a virgin, still figuring out what feels right for me, and I’d love to meet someone who’s patient, kind, and looking for something real and lasting. Whether you’re asexual, demisexual, or just someone who values deep emotional bonds, I’d love to get to know you 💕"
   }
+},
+"2": {
+  "aboutMe": {
+    "name": "Anggi Heradiana",
+    "age": "25",
+    "pronouns": "she/her",
+    "gender": "female",
+    "sexuality": "asexual",
+    "country": "Indonesia"
+  },
+  "traits": {
+    "likes": "Good things",
+    "dislikes": "Things that harm other people",
+    "personality": "Ambivert"
+  },
+  "favourites": {
+    "colour": "Pink and Purple",
+    "songArtist": "Just like instrumental",
+    "food": "realfood",
+    "activity": "Draw"
+  },
+  "inPartner": {
+    "age": "",
+    "pronouns": "",
+    "gender": "",
+    "country": "",
+    "likes": "",
+    "dislikes": "",
+    "personality": ""
+  },
+  "moreInfo": {
+    "extra": "I've had OCD for quite some time, but it's gotten better now. MBTI: INTJ, Enneagram: 6w7. (Based on Boo app)"
+  }
+},
+"3": {
+  "aboutMe": {
+    "name": "Rai",
+    "age": "18",
+    "pronouns": "She/they",
+    "gender": "Feminine, masculine, interbinary",
+    "sexuality": "Omni, aroaceflux, myraroace",
+    "country": "Indonesia"
+  },
+  "traits": {
+    "likes": "Movies with fantasy/mystery/drama genres, music (alternative/indie/hip-hop/pop/cance/electronic/classic/rock/hyperpop), working out, learning new things, any game especially horror/mystery/puzzle, being valued, appreciated, complimented",
+    "dislikes": "Horror movies, darkness, thalassophobia, abandoned places, being judged",
+    "personality": "INFP, Sp4, EII"
+  },
+  "favourites": {
+    "colour": "Blue, gray, green, & silver",
+    "songArtist": "Cavetown, Billie Eilish, Aurora, Sleeping at Last, SYML, Grimes, Mother Mother, Odetari, Gibran Alcocer, Grouper",
+    "food": "Fried rice, fried chicken, chicken teriyaki, mochi, rendang, semur, ice cream, chocolate, matcha, tiramisu, and more",
+    "activity": "Working out, watching movies, writing, reading"
+  },
+  "inPartner": {
+    "age": "Any for friends, 18-20 for partner",
+    "pronouns": "Any",
+    "gender": "Any, partner preferably born male",
+    "country": "Any nationality",
+    "likes": "Similar interests, willing to teach or learn together",
+    "dislikes": "Similar dislikes, but open to compromise for someone special",
+    "personality": "INFP, ENFP, ISFJ, INFJ, INTP, INTJ, ENTP, 4w5, 5w4, 5w6, 6w5, 6w7, gentle, kind, soft, highly sensitive, open-minded, patient, understanding, receptive to suggestions"
+  },
+  "moreInfo": {
+    "extra": "Friends of any religion, partner preferably Islam. Possibly neurodivergent: OCD, ADHD, or other."
+  }
+},
+"4": {
+  "aboutMe": {
+    "name": "Joanne",
+    "age": "33",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Autosexual and biromantic",
+    "country": "Malaysia"
+  },
+  "traits": {
+    "likes": "Listening to music, dancing freely, swimming, reading, writing, deep conversation, anime",
+    "dislikes": "Too extreme exercise",
+    "personality": "Caring, straightforward, loyal, humorous at times, introvert, shows crazy side with comfort"
+  },
+  "favourites": {
+    "colour": "Violet",
+    "songArtist": "Any songs, mostly pop",
+    "food": "Sushi, Asian food, Western food; dislikes organ and coriander",
+    "activity": "Listening to music, reading, swimming"
+  },
+  "inPartner": {
+    "age": "30-44",
+    "pronouns": "Any",
+    "gender": "Male or female",
+    "country": "Any, could be long distance",
+    "likes": "Any, as long as honest and sincere",
+    "dislikes": "No communication at all",
+    "personality": "Patient, willing to communicate, open-minded"
+  },
+  "moreInfo": {
+    "extra": "Religion: Free thinker. Can be nice and mean at the same time depending on situation. Open to friends, but a bit picky for a partner."
+  }
+},
+"5": {
+  "aboutMe": {
+    "name": "Sidra",
+    "age": "21",
+    "pronouns": "She/Her",
+    "gender": "Female",
+    "sexuality": "Biromantic",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "Horror movies, music, studying, meaningful conversations, cozy nights",
+    "dislikes": "Dishonesty, being ignored, loud or chaotic environments",
+    "personality": "Introverted but warm and open once comfortable, caring, emotional, and honest"
+  },
+  "favourites": {
+    "colour": "Black, White, Blue",
+    "songArtist": "Ghostly Kisses, Ethel Cain, Lana Del Rey, Marina and the Diamonds, Mitski, Tove Lo, Girl in Red, Ellie Goulding, etc.",
+    "food": "Chinese, Indian",
+    "activity": "Studying, watching movies, listening to music"
+  },
+  "inPartner": {
+    "age": "20–25",
+    "pronouns": "Any",
+    "gender": "Male / Female",
+    "country": "Anywhere",
+    "likes": "Kindness, empathy, good humor, emotional depth",
+    "dislikes": "Arrogance, insensitivity, dishonesty",
+    "personality": "Caring, understanding, patient, and emotionally intelligent"
+  },
+  "moreInfo": {
+    "extra": "Currently a college student. Sometimes busy but always try to reply. Excited to connect and make genuine bonds.",
+    "religion": "Islam — open to friendship and connections from all religions, but in relationships I prefer someone who shares the same faith",
+    "somethingMoreAboutYou": "I have BPD and depression, but I’m seeing a therapist and working on healing."
+  }
+}
 }
