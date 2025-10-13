@@ -19,7 +19,7 @@ export function Introductions() {
           <CometCard>
             <div
               type="button"
-              className="my-10 flex w-80 flex-col items-stretch rounded-2xl 
+              className="my-10 flex w-30 md:w-80 flex-col items-stretch rounded-2xl 
                          bg-white/10 backdrop-blur-lg shadow-lg border border-white/20 
                          overflow-hidden md:my-20 transition hover:scale-105"
               aria-label="View invite F7RA"
@@ -48,7 +48,7 @@ export function Introductions() {
           <CometCard>
             <div
               type="button"
-              className="my-10 flex w-80 flex-col items-stretch rounded-2xl 
+              className="my-10 flex w-30 md:w-80 flex-col items-stretch rounded-2xl 
                          bg-white/10 backdrop-blur-lg shadow-lg border border-white/20 
                          overflow-hidden md:my-20 transition hover:scale-105"
               aria-label="View invite F7RA"

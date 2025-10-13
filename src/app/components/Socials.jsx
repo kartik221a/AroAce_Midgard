@@ -32,7 +32,6 @@ export function Socials() {
         <ColourfulText text="Socials" />
       </span>
       <FloatingDock
-        mobileClassName="translate-y-20" // only for demo, remove for production
         items={links}
       />
     </div>
