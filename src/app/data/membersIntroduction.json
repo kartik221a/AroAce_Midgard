@@ -461,5 +461,38 @@
     "religion": "",
     "somethingMore": ""
   }
+},
+"15": {
+  "aboutMe": {
+    "name": "Anggi Heradiana",
+    "age": "25",
+    "pronouns": "she/her",
+    "gender": "female",
+    "sexuality": "asexual",
+    "country": "Indonesia"
+  },
+  "traits": {
+    "likes": "Good things",
+    "dislikes": "Things that harm other people",
+    "personality": "Ambivert"
+  },
+  "favourites": {
+    "colour": "Pink and Purple",
+    "songArtist": "Just like instrumental",
+    "food": "realfood",
+    "activity": "Draw"
+  },
+  "inPartner": {
+    "age": "",
+    "pronouns": "",
+    "gender": "",
+    "country": "",
+    "likes": "",
+    "dislikes": "",
+    "personality": ""
+  },
+  "moreInfo": {
+    "extra": "I've had OCD for quite some time, but it's gotten better now. MBTI: INTJ, Enneagram: 6w7. (Based on Boo app)"
+  }
 }
 }

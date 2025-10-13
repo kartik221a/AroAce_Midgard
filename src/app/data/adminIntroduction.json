@@ -34,39 +34,6 @@
 },
 "2": {
   "aboutMe": {
-    "name": "Anggi Heradiana",
-    "age": "25",
-    "pronouns": "she/her",
-    "gender": "female",
-    "sexuality": "asexual",
-    "country": "Indonesia"
-  },
-  "traits": {
-    "likes": "Good things",
-    "dislikes": "Things that harm other people",
-    "personality": "Ambivert"
-  },
-  "favourites": {
-    "colour": "Pink and Purple",
-    "songArtist": "Just like instrumental",
-    "food": "realfood",
-    "activity": "Draw"
-  },
-  "inPartner": {
-    "age": "",
-    "pronouns": "",
-    "gender": "",
-    "country": "",
-    "likes": "",
-    "dislikes": "",
-    "personality": ""
-  },
-  "moreInfo": {
-    "extra": "I've had OCD for quite some time, but it's gotten better now. MBTI: INTJ, Enneagram: 6w7. (Based on Boo app)"
-  }
-},
-"3": {
-  "aboutMe": {
     "name": "Rai",
     "age": "18",
     "pronouns": "She/they",
@@ -98,7 +65,7 @@
     "extra": "Friends of any religion, partner preferably Islam. Possibly neurodivergent: OCD, ADHD, or other."
   }
 },
-"4": {
+"3": {
   "aboutMe": {
     "name": "Joanne",
     "age": "33",
@@ -131,7 +98,7 @@
     "extra": "Religion: Free thinker. Can be nice and mean at the same time depending on situation. Open to friends, but a bit picky for a partner."
   }
 },
-"5": {
+"4": {
   "aboutMe": {
     "name": "Sidra",
     "age": "21",
