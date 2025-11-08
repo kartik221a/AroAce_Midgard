@@ -1,37 +1,4 @@
 {
-  "1": {
-    "aboutMe": {
-      "name": "Shruti",
-      "age": "23",
-      "pronouns": "she / her",
-      "gender": "FeMale",
-      "sexuality": "Asexual",
-      "country": "India"
-    },
-    "traits": {
-      "likes": "gardening ☘ , playing badminton 🏸",
-      "dislikes": "-",
-      "personality": "-"
-    },
-    "favourites": {
-      "colour": "Blue",
-      "songArtist": "Ava Max , zyan malik , BLACKPINK, BTS , AR Rehman, Arijit Singh, 5 SOS , etc....",
-      "food": "Vegetarian food",
-      "activity": "-"
-    },
-    "inPartner": {
-      "age": "-",
-      "pronouns": "-",
-      "gender": "-",
-      "country": "-",
-      "likes": "-",
-      "dislikes": "-",
-      "personality": "-"
-    },
-    "moreInfo": {
-      "extra": "relegion: Hindu | something more about you: i mainly study through out the day , im looking for a decent job"
-    }
-  },
   "2": {
   "aboutMe": {
     "name": "Jyorca/iyor",
@@ -63,39 +30,6 @@
   },
   "moreInfo": {
     "extra": "~extra~ : I have an extreme Social Anxiety which causes me to get nervous even talking with someone online, im sorry if im barely chatting in the group but i'll try to be more talkative. religion: Agnostic? (Not sure if it's a religion) | something more about you: I like playing visual novel games and voiceover them lol. Nice to meet you all"
-  }
-},
-"3": {
-  "aboutMe": {
-    "name": "Aman",
-    "age": "21",
-    "pronouns": "he/him?",
-    "gender": "Male",
-    "sexuality": "Asexual",
-    "country": "India"
-  },
-  "traits": {
-    "likes": "drawing, chess, games, looking at sky or stars, writing poems, history, reading etc.",
-    "dislikes": "dishonet people, bullies etc.",
-    "personality": "shy and kind of loner"
-  },
-  "favourites": {
-    "colour": "Red",
-    "songArtist": "not any specific",
-    "food": "not any specific",
-    "activity": "games and reading"
-  },
-  "inPartner": {
-    "age": "-",
-    "pronouns": "-",
-    "gender": "not any",
-    "country": "-",
-    "likes": "-",
-    "dislikes": "-",
-    "personality": "-"
-  },
-  "moreInfo": {
-    "extra": "religion: hinduism | something more about me: I don't think so."
   }
 },
 "4": {
@@ -170,7 +104,7 @@
     "name": "Emilia",
     "age": "13 almost 14",
     "pronouns": "she/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "sexuality": "on the Aroace spectrum but not completely Aro",
     "country": "Germany"
   },
@@ -195,7 +129,7 @@
     "name": "Marilaine",
     "age": "18yo",
     "pronouns": "she/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "sexuality": "aroace",
     "country": "Brazil"
   },
@@ -223,39 +157,6 @@
     "extra": "religion: Christian | something more about you: well, I really wanna find some aroace friends so I won’t feel so alone :,)"
   }
 },
-"8": {
-  "aboutMe": {
-    "name": "Paga",
-    "age": "23",
-    "pronouns": "he/him",
-    "gender": "Male",
-    "sexuality": "-",
-    "country": "Indonesia"
-  },
-  "traits": {
-    "likes": "Calisthenics, 🐱, 🎮, and play joyful stuff",
-    "dislikes": "sex, emping",
-    "personality": "idk, calm 🤷‍♂"
-  },
-  "favourites": {
-    "colour": "White",
-    "songArtist": "Kokia, L'Arc EN Ciel",
-    "food": "food with high protein",
-    "activity": "work, play, and sleep"
-  },
-  "inPartner": {
-    "age": "",
-    "pronouns": "",
-    "gender": "",
-    "country": "",
-    "likes": "",
-    "dislikes": "",
-    "personality": ""
-  },
-  "moreInfo": {
-    "extra": "religion: ☪ | something more about you: average people"
-  }
-},
 "9": {
   "aboutMe": {
     "name": "Peter",
@@ -279,7 +180,7 @@
   "inPartner": {
     "age": "18-53",
     "pronouns": "She/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "timezone": "EST",
     "likes": "",
     "dislikes": "",
@@ -312,7 +213,7 @@
   "inPartner": {
     "age": "20-27",
     "pronouns": "she/hers",
-    "gender": "FeMale",
+    "gender": "Female",
     "country": "anywhere",
     "likes": "",
     "dislikes": "",
@@ -329,7 +230,7 @@
     "name": "Roxana",
     "age": "34",
     "pronouns": "she/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "sexuality": "Demisexual/Sapiosexual/pansexual",
     "country": "Romania"
   },
@@ -364,8 +265,8 @@
     "name": "Sarah",
     "age": "16",
     "pronouns": "she/her",
-    "gender": "FeMale",
-    "sexuality": "FeMale",
+    "gender": "Female",
+    "sexuality": "Female",
     "country": "Germany"
   },
   "traits": {
@@ -399,7 +300,7 @@
     "name": "Seema",
     "age": "20",
     "pronouns": "she/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "sexuality": "asexual",
     "country": "India"
   },
@@ -434,7 +335,7 @@
     "name": "Anggi Heradiana",
     "age": "25",
     "pronouns": "she/her",
-    "gender": "FeMale",
+    "gender": "Female",
     "sexuality": "asexual",
     "country": "Indonesia"
   },
@@ -460,6 +361,237 @@
   },
   "moreInfo": {
     "extra": "I've had OCD for quite some time, but it's gotten better now. MBTI: INTJ, Enneagram: 6w7. (Based on Boo app)"
+  }
+},
+"15": {
+  "aboutMe": {
+    "name": "Maia",
+    "age": "19",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Bi/Ace (grey and demi)",
+    "country": "Spain (originally from Cuba)"
+  },
+  "traits": {
+    "likes": "writing and reading, long series, going out sometimes, deep conversations, historical documentaries, learning new facts, folk-ish music",
+    "dislikes": "cooking, coconut",
+    "personality": "shy and quiet until known well, sarcastic, the 'did you know?' friend"
+  },
+  "favourites": {
+    "colour": "Blue",
+    "songArtist": "The Crane Wives",
+    "food": "Tostones / Cuban food",
+    "activity": "Reading"
+  },
+  "inPartner": {
+    "age": "18-20 something",
+    "pronouns": "any",
+    "gender": "any",
+    "country": "any",
+    "likes": "sense of humor, respect, sincerity",
+    "dislikes": "ghosting",
+    "personality": "no particular preference"
+  },
+  "moreInfo": {
+    "extra": "religion: None | speaks Portuguese (great aunt is Brazilian)"
+  }
+},
+"16": {
+  "aboutMe": {
+    "name": "Laz",
+    "age": "26",
+    "pronouns": "he/his",
+    "gender": "Male",
+    "sexuality": "Gray-asexual",
+    "country": "Nigeria"
+  },
+  "traits": {
+    "likes": "football, football games, walking, music",
+    "dislikes": "-",
+    "personality": "ENTP"
+  },
+  "favourites": {
+    "colour": "yellow, black, purple",
+    "songArtist": "Afrobeat artiste",
+    "food": "Jollof rice, Jollof spaghetti",
+    "activity": "-"
+  },
+  "inPartner": {
+    "age": "20-25",
+    "pronouns": "-",
+    "gender": "feminine",
+    "country": "any",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: Any | loves having nice conversations"
+  }
+},
+"17": {
+  "aboutMe": {
+    "name": "Tiara",
+    "age": "-",
+    "pronouns": "fae/faer/faers",
+    "gender": "Demi girl",
+    "sexuality": "Apothi homo ace",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "reading, writing, nature, astrology",
+    "dislikes": "violence, explicit stuff",
+    "personality": "INFJ-T 4w5"
+  },
+  "favourites": {
+    "colour": "rainbow",
+    "songArtist": "-",
+    "food": "Indo-Chinese",
+    "activity": "being in delusion"
+  },
+  "inPartner": {
+    "age": "any",
+    "pronouns": "flexible",
+    "gender": "non-binary AFAB, women including trans women",
+    "country": "any",
+    "likes": "flexible",
+    "dislikes": "flexible",
+    "personality": "flexible"
+  },
+  "moreInfo": {
+    "extra": "religion: - | doesn't really know what to add 🤣"
+  }
+},
+"18": {
+  "aboutMe": {
+    "name": "Aenore (nickname Ash)",
+    "age": "15",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Straight",
+    "country": "Greece (living in Germany)"
+  },
+  "traits": {
+    "likes": "respectful people",
+    "dislikes": "predators, homophobic people, racist people, rude people",
+    "personality": "INFP type"
+  },
+  "favourites": {
+    "colour": "black and dark red",
+    "songArtist": "mostly goth and nu metal bands",
+    "food": "pasta",
+    "activity": "riding, drawing, sewing, crocheting, writing, reading, playing drums, piano, electric guitar, volleyball"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "-",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: Christian ✝ | open to questions if you want to know more"
+  }
+},
+"19": {
+  "aboutMe": {
+    "name": "Irma",
+    "age": "17",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Asexual",
+    "country": "Bosnia and Herzegovina"
+  },
+  "traits": {
+    "likes": "plushies, food, unique drinks, animals, series, not having school, people, talking, singing",
+    "dislikes": "loud noises, rude people, yelling, the darkness",
+    "personality": "very bubbly and fun, loves to talk and usually the life of the party, but can be calm and collected"
+  },
+  "favourites": {
+    "colour": "green, pink, white",
+    "songArtist": "Sabrina Carpenter (and many others)",
+    "food": "kebab and fries",
+    "activity": "eating"
+  },
+  "inPartner": {
+    "age": "doesn't matter",
+    "pronouns": "doesn't matter",
+    "gender": "doesn't matter",
+    "country": "doesn't matter",
+    "likes": "//",
+    "dislikes": "//",
+    "personality": "just wants to find friends, no specific criteria"
+  },
+  "moreInfo": {
+    "extra": "religion: Muslim | MBTI: ENFP"
+  }
+},
+"20": {
+  "aboutMe": {
+    "name": "Viktorija",
+    "age": "19",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Straight (but kind of asexual, not sure)",
+    "country": "Lithuania"
+  },
+  "traits": {
+    "likes": "sport, horses, talking",
+    "dislikes": "ngl I like everything",
+    "personality": "chill"
+  },
+  "favourites": {
+    "colour": "dark red, pink",
+    "songArtist": "Rob Zombie",
+    "food": "cigarette",
+    "activity": "horse riding or just being with horses"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "-",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: doesn't believe in anything 🥲 | chill personality, loves chocolate 🍫"
+  }
+},
+"21": {
+  "aboutMe": {
+    "name": "Devina Chatterjee",
+    "age": "33",
+    "pronouns": "she/her",
+    "gender": "Female",
+    "sexuality": "Asexual, sex-repulsed, aroflux",
+    "country": "India"
+  },
+  "traits": {
+    "likes": "Netflix",
+    "dislikes": "-",
+    "personality": "introvert"
+  },
+  "favourites": {
+    "colour": "red",
+    "songArtist": "Sia",
+    "food": "pizza, fish, etc.",
+    "activity": "sleeping and eating"
+  },
+  "inPartner": {
+    "age": "-",
+    "pronouns": "-",
+    "gender": "-",
+    "country": "-",
+    "likes": "-",
+    "dislikes": "-",
+    "personality": "-"
+  },
+  "moreInfo": {
+    "extra": "religion: Hindu | open to befriending kind souls and possibly finding a soulmate — peaceful and accepting ✌"
   }
 }
 }
